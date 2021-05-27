@@ -1,0 +1,97 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.containing{
+  margin-top: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+  
+  
+  
+  
+}
+.form{
+  margin-top: 40px;
+  margin-bottom: 300px;
+  
+  
+  
+  
+}
+.weather{
+  margin-top: 500px;
+  position:fixed;
+  overflow: hidden;
+  
+  
+  
+}
+
+.thunderstorm{
+   top: 0;
+   background:url( 'https://www.stormgeo.com/assets/ArticleImages/thunderstorm-flipped__FocusFillWzQyODgsMjcwMCwieSIsNzRd.jpg');
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 950px;
+  overflow: hidden;
+   
+   
+}
+.drizzle{
+  background:url( 'https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/rain/raindrops-misted-on-a-windscreen.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 950px;
+  overflow: hidden;
+}
+.rain{
+  background:url('https://s7d2.scene7.com/is/image/TWCNews/heavy_rain_jpg-2');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 950px;
+  overflow: hidden;
+   
+}
+.clouds{
+  background:url('https://miro.medium.com/max/4800/1*QL28VV1ezVvGA4edtqmOxQ.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 950px;
+  overflow: hidden;
+
+}
+.clear{
+  background:url('https://jooinn.com/images/clear-bright-sky.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 950px;
+  overflow: hidden;
+  
+}
+.backgroundDefault{
+  background: url('https://miro.medium.com/max/12000/1*xSgCamVUBF-kEV-SFo9u6w.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 950px;
+  overflow: hidden;
+}
+
+ 
