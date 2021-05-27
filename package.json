@@ -1,7 +1,7 @@
 {
   "name": "weather",
   "version": "0.1.0",
-  "homepage":"https://jessedrg.github.io/wheather/",
+  "homepage":"https://jessedrg.github.io/wheather-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
